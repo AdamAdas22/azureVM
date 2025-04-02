@@ -1,5 +1,9 @@
 # azureVM
 <h1>How to Create a Virtual Machine in Microsoft Azure</h1>
+
+![Microsoft-Azure-Logo-2017](https://github.com/user-attachments/assets/927e7abb-d5a2-4523-93d1-660e1bd4e39e)
+
+
   <h2>Prerequisites</h2>
 <ul>
 <li>A <strong>Microsoft Azure account</strong> (Sign up at <a href="https://portal.azure.com" target="_blank">Azure Portal</a>).</li>
